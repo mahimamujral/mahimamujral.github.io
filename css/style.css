@@ -312,10 +312,10 @@ header {
       font-weight: 400;
       letter-spacing: 5px;
       padding: 7px;
-      border: 1px solid #000;
+      border: 1px solid #9D2A44;
       display: block;
       text-align: center;
-      background: #000; }
+      background: #9D2A44; }
       header .colorlib-navbar-brand .colorlib-logo span {
         display: block;
         margin-bottom: 0;
