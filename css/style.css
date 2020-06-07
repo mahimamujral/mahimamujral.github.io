@@ -1313,9 +1313,3 @@ input[type="text"] {
 
 .js .animate-box {
   opacity: 0; }
-
-.sticky{
-  position: fixed;
-  top: 0;
-  background: #ffffff;
-}
