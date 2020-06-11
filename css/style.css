@@ -767,7 +767,7 @@ header {
   .work-entry .desc .read {
     text-align: right; }
     .work-entry .desc .read a {
-      color: #fff;
+      color:#000;
       text-transform: uppercase;
       letter-spacing: 4px;
       font-size: 12px;
@@ -1295,3 +1295,20 @@ input[type="text"] {
 
 .js .animate-box {
   opacity: 0; }
+
+@media (max-width: 700px){
+  .mobile-responsive{
+    padding-left: 15px;
+    padding-right: 15px;
+    }
+    .mrgn{
+      margin-top: -130px;
+    }
+}
+
+@media (min-width: 700px){
+  .mrgn{
+    margin-top: 30px;
+    }
+}
+
