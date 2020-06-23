@@ -11,9 +11,11 @@
 *	Edit this section
 *
 * ======================================================= */
+html{
+  overflow-x: hidden;
+}
 body {
   max-width: 100%;
-  overflow-x: hidden;
   font-family: "Karla", Arial, sans-serif;
   line-height: 1.8;
   font-size: 16px;
